@@ -3,7 +3,7 @@
 > Tres búsquedas de tiempo independientes en serie son tres viajes de ida y vuelta. ejecutarlos en paralelo y el tiempo total se desploma a la llamada única más lenta. Cada proveedor fronterizo ahora emite múltiples llamadas de herramienta en un solo giro. La recompensa es real; la tubería es sutil. Esta lección camina ambas mitades: el fan-out paralelo y el reensamblaje de argumentos transmitidos, con énfasis en la trampa de correlación de identidad.
 
 **Type:** Build
-**Languages:** Python (stdlib, thread pool + streaming harness)
+**Languages:** Python, TypeScript (stdlib, thread pool + streaming harness)
 **Prerequisites:** Phase 13 · 02 (function calling deep dive)
 **Time:** ~75 minutes
 

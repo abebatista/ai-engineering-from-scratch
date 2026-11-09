@@ -3,7 +3,7 @@
 > Una herramienta correcta falla silenciosamente cuando el modelo no puede saber cuándo usarla. El nombre, las descripciones y las formas de parámetros impulsan los cambios de 10 a 20 puntos porcentuales en la precisión de selección de herramientas en puntos de referencia como StableToolBench y MCPToolBench +. Esta lección nombra las reglas de diseño que separan una herramienta que un modelo elige confiablemente de una herramienta que un modelo dispara incorrectamente.
 
 **Type:** Learn
-**Languages:** Python (stdlib, tool schema linter)
+**Languages:** Python, TypeScript (stdlib, tool schema linter)
 **Prerequisites:** Phase 13 · 01 (the tool interface), Phase 13 · 04 (structured output)
 **Time:** ~45 minutes
 

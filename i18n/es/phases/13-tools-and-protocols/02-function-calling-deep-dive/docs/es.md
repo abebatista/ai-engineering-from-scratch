@@ -3,7 +3,7 @@
 > Los tres proveedores fronterizos convergieron en el mismo ciclo de llamadas de herramientas en 2024 y luego divergieron en todo lo demás.`tools`y `tool_calls`. Uso antropológico `tool_use`y `tool_result`Los Géminis usan`functionDeclarations`Esta lección diferencia los tres lados a la vez para que el código que se envía en un proveedor no se rompa cuando se porta.
 
 **Type:** Build
-**Languages:** Python (stdlib, schema translators)
+**Languages:** Python, TypeScript (stdlib, schema translators)
 **Prerequisites:** Phase 13 · 01 (the tool interface)
 **Time:** ~75 minutes
 

@@ -3,7 +3,7 @@
 > Un agente llama a cinco herramientas, tres servidores MCP y dos subagentes. Necesitas un rastro en todo. Las convenciones semánticas de OpenTelemetry GenAI (atributos estables en v1.37 y superior) son el estándar 2026, nativo apoyado por Datadog, Langfuse, Arize Phoenix, OpenLLMetry y AgentOps. Esta lección nombra los atributos requeridos, recorre la jerarquía de espacio (herramienta agente → LLM →), y envía un emisor de espacio de espacio stdlib que puede conectar a cualquier exportador OTel.
 
 **Type:** Build
-**Languages:** Python (stdlib, OTel span emitter)
+**Languages:** Python (stdlib, OTel span emitter), TypeScript
 **Prerequisites:** Phase 13 · 07 (MCP server), Phase 13 · 08 (MCP client)
 **Time:** ~75 minutes
 
